@@ -4,7 +4,7 @@ IFS=$'\n\t'
 
 # Run this script with bash -x (script name) to execute commands one a time
 
-#/ Usage: ./mx.bash --domains path/to/list/of/domains --record MX
+#/ Usage: ./mx.sh --domains path/to/list/of/domains --record MX
 #/ Description: Get a list of DNS records from a list of domains in a 
 #/              report format. For example, if I want the NS record for
 #/              100 domains, this is your baby.
