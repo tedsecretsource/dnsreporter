@@ -12,7 +12,8 @@ tedious process.
 This script will produce a CSV report showing values for specific 
 records in DNS. Simply feed it a list of domains and the record you 
 would like to examine, and the script will do the rest. See the 
-sample-domains.txt file for an example of the required format.
+sample-domains.txt file for an example of the required input format and
+sample-mxdomains.csv for an example of the output.
 
 ## Sources of inspiration
 * https://dev.to/thiht/shell-scripts-matter
